@@ -1,1 +1,1 @@
-# solid-react
+# SOLID from REACT
